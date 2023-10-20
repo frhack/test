@@ -8,7 +8,7 @@ public class Search1 extends Thread {
     private String nome;
 
     public Search1(String nome, int[] v, int a, int b, int e) {
-        this.nome = nome;
+        this.nome = nome; //dfsdfsd
         this.v = v;
         this.a = a;
         this.b = b;
